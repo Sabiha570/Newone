@@ -1,2 +1,1 @@
-# Newone
-about 
+print("hey there, happy coding")
